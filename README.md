@@ -6,7 +6,7 @@
 - 😄 Good good study，day day up!
 
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=lian-yue0515&show_icons=true&theme=highcontrast"/>
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=lian-yue0515&show_icons=true&theme=onedark"/>
 
 <img align="right" highcontrast src="https://github-readme-stats.vercel.app/api/top-langs/?username=lian-yue0515&theme=radical&layout=compact"  />
 

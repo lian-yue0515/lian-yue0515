@@ -6,9 +6,9 @@
 - 😄 Good good study，day day up!
 
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=lian-yue0515&show_icons=true&theme=radical"/>
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=lian-yue0515&show_icons=true&theme=radical"/>
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lian-yue0515&theme=radical&layout=compact"  />
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lian-yue0515&theme=radical&layout=compact"  />
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=你的仓库名)](你仓库的url) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=***&repo=****)](url) -->
 

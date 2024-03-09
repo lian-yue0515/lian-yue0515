@@ -6,9 +6,9 @@
 - 😄 Good good study，day day up!
 
 
-<img align="left" onedark src="https://github-readme-stats.vercel.app/api?username=lian-yue0515&show_icons=true&theme=radical"/>
+<img align="left" highcontrast src="https://github-readme-stats.vercel.app/api?username=lian-yue0515&show_icons=true&theme=radical"/>
 
-<img align="right" onedark src="https://github-readme-stats.vercel.app/api/top-langs/?username=lian-yue0515&theme=radical&layout=compact"  />
+<img align="right" highcontrast src="https://github-readme-stats.vercel.app/api/top-langs/?username=lian-yue0515&theme=radical&layout=compact"  />
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=***&repo=****)](url) -->
 
